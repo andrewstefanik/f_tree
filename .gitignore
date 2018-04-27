@@ -1,0 +1,5 @@
+# Vs Code folder
+*.vscode
+
+# Node Modules
+node_modules/
